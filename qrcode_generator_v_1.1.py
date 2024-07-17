@@ -1,7 +1,8 @@
 """
 QR Code Generator
 Author: Charlie Arua Ikosi
-Date: 17 May 2024
+Date created: 17 May 2024
+Date modified: 17 July 2024
 WorkGroup: Geospatial And Digital Solutions
 Organisation: Pattle Delamore Partners
 Version: 1.1
